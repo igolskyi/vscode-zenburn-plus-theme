@@ -28,6 +28,6 @@ A theme extension for [Visual Studio Code](https://code.visualstudio.com) based 
 
 ## Changelog
 
-See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/./CHANGELOG.md)
+See [CHANGELOG.md](CHANGELOG.md)
 
 **Enjoy!**
