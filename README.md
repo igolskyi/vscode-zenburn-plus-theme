@@ -21,6 +21,6 @@ See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/
 
 ## Screenshot
 
-![Screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/screenshots/zenburn-plus-js.png)
+![Overview screenshot](screenshots/zenburn-plus-js.png)
 
 **Enjoy!**
