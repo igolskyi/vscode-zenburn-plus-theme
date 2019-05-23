@@ -4,16 +4,19 @@ A theme extension for [Visual Studio Code](https://code.visualstudio.com) based 
 
 ---
 
-## Changelog
+## Supported syntax for:
 
-See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/./CHANGELOG.md)
+- JavaScript
+- JSON
 
-## Description
+## Planned syntax for:
 
-- Mainly focused on JS development
-- Also in planning add HTML5 / CSS / TS / Graphql / JSON / YML and many other
-
-- Note that **this theme is not exactly same with the theme from Zenburn for Vim**. There are few modifications to match look and feel with VS Code
+- TypeScript
+- HTML
+- CSS
+- GraphQL
+- YML
+- .env
 
 ## Customizing
 
@@ -22,5 +25,9 @@ See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/
 ## Screenshot
 
 ![Overview screenshot](screenshots/zenburn-plus-js.png)
+
+## Changelog
+
+See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/master/./CHANGELOG.md)
 
 **Enjoy!**
