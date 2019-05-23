@@ -1,12 +1,12 @@
 {
-  "name": "vscode-day-night-theme",
-  "displayName": "igolskyi Daynight Theme",
-  "description": "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs and Visual Studio",
+  "name": "vscode-zenburn-plus-theme",
+  "displayName": "Zenburn+ Dark Theme",
+  "description": "Theme based on zenburn-emacs colour theme ported to VS Code",
   "version": "0.0.1",
   "publisher": "igolskyi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dedmazayukr"
+    "url": "https://github.com/igolskyi/vscode-zenburn-plus-theme"
   },
   "engines": {
     "vscode": "*"
@@ -18,24 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Daynight Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/daynight-dark.json"
-      },
-      {
-        "label": "Daynight Zenburn Dark",
+        "label": "Zenburn+ Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/zenburn.json"
-      },
-      {
-        "label": "Daynight Light",
-        "uiTheme": "vs",
-        "path": "./themes/daynight-light.json"
-      },
-      {
-        "label": "Daynight Light Mozilla",
-        "uiTheme": "vs",
-        "path": "./themes/daynight-light-mozilla.json"
       }
     ]
   }
