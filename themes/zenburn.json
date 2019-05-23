@@ -2,7 +2,6 @@
   "type": "dark",
   "colors": {
     "sideBar.border": "#aaaaaa55",
-    "tab.activeBorder": "#D0BF8F",
     "editorIndentGuide.activeBackground": "#44444422",
     "editorLineNumber.foreground": "#aaaaaa",
 
@@ -61,10 +60,10 @@
     "editorGroup.dropBackground": "#2AA19844",
     "editorGroupHeader.tabsBackground": "#2B2B2B",
     "tab.activeForeground": "#d6dbdb",
-    "tab.activeBackground": "#494949",
+    "tab.activeBackground": "#3F3F3F",
     "tab.inactiveForeground": "#93A1A1",
     "tab.inactiveBackground": "#2B2B2B",
-    "tab.border": "#3F3F3F",
+    "tab.border": "#494949",
 
     "activityBar.background": "#3F3F3F",
     "panel.border": "#aaaaaa",
