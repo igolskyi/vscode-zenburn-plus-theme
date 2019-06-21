@@ -4,12 +4,13 @@ A theme extension for [Visual Studio Code](https://code.visualstudio.com) based 
 
 ---
 
-## Supported syntax for:
+Supported syntax for:
 
 - JavaScript
 - JSON
+- Markdown
 
-## Planned syntax for:
+Planned syntax for:
 
 - TypeScript
 - HTML

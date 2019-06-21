@@ -127,7 +127,6 @@
       "scope": "support.type.graphql",
       "settings": {
         "foreground": "#DFAF8F"
-        // "foreground": "#D0BF8F"
       }
     },
     {
@@ -296,9 +295,61 @@
     },
     {
       "name": "Markup Headings",
-      "scope": "markup.heading, punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json",
+      "scope": "meta.embedded, punctuation, punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json",
       "settings": {
         "foreground": "#DCDCCC"
+      }
+    },
+    {
+      "name": "Markdown Heading",
+      "scope": "punctuation.definition.heading.markdown, punctuation.definition.italic.markdown, punctuation.definition.bold.markdown, punctuation.definition.strike.markdown, punctuation.definition.list.begin.markdown, punctuation.definition.quote.begin.markdown",
+      "settings": {
+        "foreground": "#8FB28F"
+      }
+    },
+    {
+      "name": "Markdown Heading Title",
+      "scope": "markup.heading",
+      "settings": {
+        "foreground": "#F0DFAF",
+        "fontStyle":"bold"
+      }
+    },
+    {
+      "name": "Markdown Italic",
+      "scope": "markup.italic",
+      "settings": {
+        "foreground": "#D0BF8F",
+        "fontStyle":"italic"
+      }
+    },
+    {
+      "name": "Markdown Bold",
+      "scope": "markup.bold",
+      "settings": {
+        "foreground": "#D0BF8F",
+        "fontStyle":"bold"
+      }
+    },
+    {
+      "name": "Markdown Links",
+      "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown",
+      "settings": {
+        "foreground": "#94BFF3"
+      }
+    },
+    {
+      "name": "Markdown Links Title",
+      "scope": "string.other.link.title.markdown",
+      "settings": {
+        "foreground": "#DFAF8F"
+      }
+    },
+    {
+      "name": "Markdown Raw",
+      "scope": "punctuation.definition.raw.markdown, markup.inline.raw, markup.fenced_code.block",
+      "settings": {
+        "foreground": "#CC9393"
       }
     },
     {
