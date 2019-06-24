@@ -88,7 +88,7 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": "comment, punctuation.definition.comment",
       "settings": {
         "foreground": "#7F9F7F"
       }
@@ -120,6 +120,13 @@
       "scope": "variable.graphql",
       "settings": {
         "foreground": "#94BFF3"
+      }
+    },
+    {
+      "name": "Variable parameter graphql",
+      "scope": "variable.parameter.graphql, variable.parameter.velocity",
+      "settings": {
+        "foreground": "#DCDCCC"
       }
     },
     {
@@ -274,7 +281,7 @@
     },
     {
       "name": "Variable, Property",
-      "scope": "variable.property,variable.object.property,variable.constant,variable.other.property,variable.other.object.property,support.variable.property",
+      "scope": "variable.property,variable.object.property,variable.constant,variable.other.property,variable.other.object.property,support.variable.property, variable.other.env",
       "settings": {
         "foreground": "#94BFF3"
       }
@@ -356,21 +363,21 @@
       "name": "Tag",
       "scope": "punctuation.definition.tag.begin, punctuation.definition.tag.end",
       "settings": {
-        "foreground": "#94BFF3"
+        "foreground": "#8FB28F"
       }
     },
     {
       "name": "Tag name",
       "scope": "punctuation.definition.tag.html, entity.name.tag",
       "settings": {
-        "foreground": "#D0BF8F"
+        "foreground": "#94BFF3"
       }
     },
     {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D0BF8F"
+        "foreground": "#F0DFAF"
       }
     },
     {
@@ -479,6 +486,35 @@
       }
     },
     {
+      "name": "VTL #directive",
+      "scope": "keyword.control.directive.velocity",
+      "settings": {
+        "foreground": "#F0DFAF",
+        "fontStyle":"bold"
+      }
+    },
+    {
+      "name": "VTL $variable",
+      "scope": "variable.other.readwrite.velocity",
+      "settings": {
+        "foreground": "#DFAF8F"
+      }
+    },
+    {
+      "name": "VTL variable parameter",
+      "scope": "variable.parameter.velocity",
+      "settings": {
+        "foreground": "#DCDCCC"
+      }
+    },
+    {
+      "name": "VTL text",
+      "scope": "text.html.velocity",
+      "settings": {
+        "foreground": "#94BFF3"
+      }
+    },
+    {
       "name": "YAML entity",
       "scope": "yaml.entity.name,yaml.string.entity.name",
       "settings": {
@@ -490,6 +526,13 @@
       "scope": "yaml.string.out",
       "settings": {
         "foreground": "#DCDCCC"
+      }
+    },
+    {
+      "name": "YAML string unquoted",
+      "scope": "string.unquoted.plain.out.yaml",
+      "settings": {
+        "foreground": "#CC9393"
       }
     },
     {
@@ -557,7 +600,7 @@
     },
     {
       "name": "CSS Property variable",
-      "scope": "support.type.property-name.variable.css,support.type.property-name.variable.scss,variable.scss",
+      "scope": "support.type.property-name.variable.css,support.type.property-name.variable.scss,variable.scss, support.type.property-name.css",
       "settings": {
         "foreground": "#94BFF3"
       }
@@ -571,7 +614,7 @@
     },
     {
       "name": "CSS Property-value",
-      "scope": "property-list.property-value.rgb-value, keyword.other.unit.css,keyword.other.unit.scss",
+      "scope": "property-list.property-value.rgb-value, keyword.other.unit.css,keyword.other.unit.scss, keyword.other.sql",
       "settings": {
         "foreground": "#94BFF3"
       }
@@ -592,9 +635,16 @@
     },
     {
       "name": "CSS Tag",
-      "scope": "css.entity.name.tag,scss.entity.name.tag",
+      "scope": "css.entity.name.tag,scss.entity.name.tag, entity.name.tag.css,entity.name.tag.scss",
       "settings": {
         "foreground": "#DC8CC3"
+      }
+    },
+    {
+      "name": "CSS Escape Character",
+      "scope": "constant.character.escape.codepoint.css",
+      "settings": {
+        "foreground": "#b267e6"
       }
     },
     {

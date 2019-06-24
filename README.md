@@ -9,12 +9,8 @@ Supported syntax for:
 - JavaScript
 - JSON
 - Markdown
-
-Planned syntax for:
-
-- TypeScript
 - HTML
-- CSS
+- CSS, SCSS, Styl
 - GraphQL
 - YML
 - .env
