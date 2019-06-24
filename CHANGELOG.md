@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.2
+
+- README: Delete link to screenshot
+
 ## v0.2.1
 
 - Add screenshots

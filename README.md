@@ -46,10 +46,6 @@ Supported syntax for:
 
 ![Overview screenshot](screenshots/graphql.png)
 
-### YAML
-
-![Overview screenshot](screenshots/yml.png)
-
 ### VTL
 
 ![Overview screenshot](screenshots/vtl.png)
