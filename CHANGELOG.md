@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.3
+
+- Update JavaScript screenshot
+
 ## v0.2.2
 
 - README: Delete link to screenshot
