@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.1
+
+- Add screenshots
+
 ## v0.2.0
 
 - Graphql: fix variable.parameter.graphql color

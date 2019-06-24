@@ -13,15 +13,46 @@ Supported syntax for:
 - CSS, SCSS, Styl
 - GraphQL
 - YML
+- VTL
 - .env
 
 ## Customizing
 
 - If you want to customize on top of this theme, use vscode's [color customization](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme) feature
 
-## Screenshot
+## Screenshots
 
-![Overview screenshot](screenshots/zenburn-plus-js.png)
+### JavaScript
+
+![JavaScript screenshot](screenshots/js.png)
+
+### JSON
+
+![Overview screenshot](screenshots/json.png)
+
+### Markdown
+
+![Overview screenshot](screenshots/markdown.png)
+
+### HTML
+
+![Overview screenshot](screenshots/html.png)
+
+### CSS
+
+![Overview screenshot](screenshots/css.png)
+
+### GraphQL
+
+![Overview screenshot](screenshots/graphql.png)
+
+### YAML
+
+![Overview screenshot](screenshots/yml.png)
+
+### VTL
+
+![Overview screenshot](screenshots/vtl.png)
 
 ## Changelog
 
