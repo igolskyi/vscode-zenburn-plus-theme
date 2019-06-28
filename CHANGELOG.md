@@ -1,5 +1,10 @@
 # Changelog
 
+## v.0.2.4
+
+- Change `punctuation.definition.tag.begin`, `punctuation.definition.tag.end` color to `blue`
+- Update HTML screenshot
+
 ## v0.2.3
 
 - Update JavaScript screenshot
@@ -14,10 +19,10 @@
 
 ## v0.2.0
 
-- Graphql: fix variable.parameter.graphql color
+- Graphql: fix `variable.parameter.graphql` color
 - HTML: update tag color
 - Add VTL support
-- Comment: fix punctuation.definition.comment color
+- Comment: fix `punctuation.definition.comment` color
 - Update .env support
 - Update YAML string unquoted
 - Update CSS colors

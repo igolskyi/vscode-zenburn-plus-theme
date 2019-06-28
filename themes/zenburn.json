@@ -363,7 +363,7 @@
       "name": "Tag",
       "scope": "punctuation.definition.tag.begin, punctuation.definition.tag.end",
       "settings": {
-        "foreground": "#8FB28F"
+        "foreground": "#94BFF3"
       }
     },
     {
