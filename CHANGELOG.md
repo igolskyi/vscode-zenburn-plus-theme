@@ -1,5 +1,9 @@
 # Changelog
 
+## v.0.3.1
+
+- Add `no bold` theme variant
+
 ## v.0.3.0
 
 - TypeScript: update `entity.name.type.ts`, `support.type.primitive.ts` colors

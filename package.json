@@ -2,7 +2,7 @@
   "name": "vscode-zenburn-plus-theme",
   "displayName": "Zenburn+ Dark Theme",
   "description": "Theme based on zenburn-emacs colour theme ported to VS Code",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publisher": "igolskyi",
   "repository": {
     "type": "git",
@@ -21,12 +21,12 @@
         "label": "Zenburn+ Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/zenburn.json"
+      },
+      {
+        "label": "Zenburn+ Dark(no bold)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zenburn-no-bold.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "2638ffa6-8e9d-40ff-855c-95cc9e7df097",
-    "publisherId": "34293a68-fc8d-4cde-908a-e0dd922f7ef2",
-    "publisherDisplayName": "igolskyi"
   }
 }
