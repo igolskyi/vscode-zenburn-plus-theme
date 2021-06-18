@@ -7,6 +7,7 @@ A theme extension for [Visual Studio Code](https://code.visualstudio.com) based 
 Supported syntax for:
 
 - JavaScript
+- Typescript
 - JSON
 - Markdown
 - HTML
@@ -24,34 +25,34 @@ Supported syntax for:
 
 ### JavaScript
 
-![JavaScript screenshot](screenshots/js.png)
+![JavaScript screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/js.png)
 
 ### JSON
 
-![Overview screenshot](screenshots/json.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/json.png)
 
 ### Markdown
 
-![Overview screenshot](screenshots/markdown.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/markdown.png)
 
 ### HTML
 
-![Overview screenshot](screenshots/html.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/html.png)
 
 ### CSS
 
-![Overview screenshot](screenshots/css.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/css.png)
 
 ### GraphQL
 
-![Overview screenshot](screenshots/graphql.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/graphql.png)
 
 ### VTL
 
-![Overview screenshot](screenshots/vtl.png)
+![Overview screenshot](https://github.com/igolskyi/vscode-zenburn-plus-theme/raw/master/screenshots/vtl.png)
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md)
+See [CHANGELOG.md](https://github.com/igolskyi/vscode-zenburn-plus-theme/blob/master/CHANGELOG.md)
 
 **Enjoy!**

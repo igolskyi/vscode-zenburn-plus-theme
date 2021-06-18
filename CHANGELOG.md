@@ -1,5 +1,9 @@
 # Changelog
 
+## v.0.3.0
+
+- TypeScript: update `entity.name.type.ts`, `support.type.primitive.ts` colors
+
 ## v.0.2.4
 
 - Change `punctuation.definition.tag.begin`, `punctuation.definition.tag.end` color to `blue`

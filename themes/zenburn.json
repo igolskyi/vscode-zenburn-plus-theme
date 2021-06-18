@@ -200,10 +200,10 @@
       }
     },
     {
-      "name": "Types, Class Types",
-      "scope": "entity.name.type,meta.return.type,meta.type.annotation,meta.type.parameters,support.type.primitive",
+      "name": "Types, typescript",
+      "scope": "entity.name.type.ts,support.type.primitive.ts",
       "settings": {
-        "foreground": "#94BFF3"
+        "foreground": "#98C379"
       }
     },
     {
