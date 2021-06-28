@@ -1,5 +1,9 @@
 # Changelog
 
+## v.0.3.3
+
+- Some highlight improvements for “No Bold” theme
+
 ## v.0.3.2
 
 - Change casing to “No Bold” and add a space before the parenthesis in the theme name
