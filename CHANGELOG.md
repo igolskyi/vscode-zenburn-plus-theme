@@ -1,5 +1,9 @@
 # Changelog
 
+## v.0.3.4
+
+- Fix package version for marketplace
+
 ## v.0.3.3
 
 - Some highlight improvements for “No Bold” theme
