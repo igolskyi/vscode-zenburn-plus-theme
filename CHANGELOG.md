@@ -1,5 +1,9 @@
 # Changelog
 
+## v.0.3.5
+
+- Add 'Support class component'
+
 ## v.0.3.4
 
 - Fix package version for marketplace

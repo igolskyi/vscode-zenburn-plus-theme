@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-zenburn-plus-theme" Version="0.3.4" Publisher="igolskyi"/>
+    <Identity Language="en-US" Id="vscode-zenburn-plus-theme" Version="0.3.5" Publisher="igolskyi"/>
     <DisplayName>Zenburn+ Dark Theme</DisplayName>
     <Description xml:space="preserve">Theme based on zenburn-emacs colour theme ported to VS Code</Description>
     <Tags>theme,color-theme</Tags>

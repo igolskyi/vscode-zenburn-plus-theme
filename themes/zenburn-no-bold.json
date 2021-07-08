@@ -213,6 +213,13 @@
       }
     },
     {
+      "name": "Support class component",
+      "scope": "support.class.component.html",
+      "settings": {
+        "foreground": "#94BFF3"
+      }
+    },
+    {
       "name": "Storage type",
       "scope": "storage.modifier,storage.arrow, storage.type.class, storage.type.function, storage,meta.var.expr storage.type,storage.type.class,keyword.control.loop,keyword.operator.expression.in,keyword.operator.new,keyword.control.switch,keyword.control.conditional,keyword.control.flow,keyword.operator.expression.instanceof,keyword.operator.expression.of,keyword.operator.expression.delete,keyword.operator.expression.void,keyword.control.module,keyword.control.trycatch, keyword.control.export,keyword.control.default,keyword.control.import,keyword.control.from",
       "settings": {

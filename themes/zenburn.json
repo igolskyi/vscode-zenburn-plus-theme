@@ -214,6 +214,14 @@
       }
     },
     {
+      "name": "Support class component",
+      "scope": "support.class.component.html",
+      "settings": {
+        "foreground": "#94BFF3",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Storage type",
       "scope": "storage.modifier,storage.arrow, storage.type.class, storage.type.function",
       "settings": {
